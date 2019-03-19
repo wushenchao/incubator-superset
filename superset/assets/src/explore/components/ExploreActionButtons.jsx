@@ -32,7 +32,7 @@ const propTypes = {
   chartStatus: PropTypes.string,
   latestQueryFormData: PropTypes.object,
   queryResponse: PropTypes.object,
-  slice: propTypes.slice
+  slice: propTypes.object
 };
 
 export default function ExploreActionButtons({
